@@ -1,0 +1,114 @@
+.photos{
+	margin-left: 20px;
+}
+
+.all{
+	color: #000;
+	text-align: center;
+	font-family: Muli;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.photography{
+	color: #747069;
+	text-align: center;
+	font-family: Muli;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.content{
+	background-color: black;
+}
+
+.all{
+	color: #000;	
+	text-align: center;
+	font-family: Muli;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.fashion{
+	color: #747069;
+	text-align: center;
+	font-family: Muli;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.sculpture{
+	color: #747069;
+	text-align: center;
+	font-family: Muli;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.main-content{
+	margin :auto;
+	margin-top: 263px;
+	background-color: #FFF;
+	width: 1145px;
+	height: 684px;
+	border-radius: 10px;
+	border-radius: 10px;
+}
+
+
+.photo-container {
+    margin-left: 142px;
+	margin-right: 142px;
+	margin-top: 118px;
+	margin-bottom: 215px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+}
+
+.bottom{
+	margin: auto;
+	margin-top: 40px;
+}
+
+.text-container {
+    display: flex;
+    justify-content: center; 
+    gap: 19px;
+    padding-top: 50px;
+}
+
+.photography , .class2, .scc2{
+	color: #747069;
+	text-align: center;
+	font-family: Muli;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	font-family: Muli;
+	font-style: normal;
+}
+
+.all{
+	border-radius: 6px;
+	background-color: #FEF8EB;
+	width: 70px;
+	height: 25px;
+	position: fix;
+	display: auto;
+	padding: 5px;
+	font-family: Muli;
+	font-style: normal;
+
+}
